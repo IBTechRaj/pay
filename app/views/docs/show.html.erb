@@ -1,0 +1,27 @@
+<table class = "table table-bordered table-striped">
+   <thead>
+      <tr>
+         <th>Title</th>
+         
+         <th>Description</th>
+         
+         <th>Tag 1</th>
+         <th>Tag 2</th>
+      </tr>
+   </thead>
+   
+   <tbody>
+      <% @docs.each do |doc| %>
+         
+         <tr>
+            <td><%= doc.title %></td>
+            <td><%= doc.description %></td>
+            <td><%= doc.tag1 %></td>
+            <td><%= doc.tag2 %></td>
+            <td><%= button_to "Delete",  doc, method: :delete, class: "btn btn-danger", confirm: "Are you sure that you wish to delete #{doc.title}?" %></td>
+         </tr>
+         
+      <% end %>
+   </tbody>
+   
+</table>

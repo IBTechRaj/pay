@@ -1,5 +1,6 @@
-<h1>Docs#new</h1>
-<p>Find me in app/views/docs/new.html.erb</p>
+<div class = "container" style = "padding-top:20px; text-align:center">
+<h1>Add New Doc</h1>
+
 
 <% if !@doc.errors.empty? %>
    <div class = "alert alert-error">
@@ -25,6 +26,7 @@
       <%= f.text_field :tag2 %>
       <%= f.label :attachment %>
       <%= f.file_field :attachment %>
-      <%= f.submit "Save", class: "btn btn-primary" %>
+      <%= f.submit "Upload", class: "btn btn-primary" %>
    <% end %>
+</div>
 </div>
