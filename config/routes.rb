@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'docs#index'
   get 'docs/index'
   get 'docs/new'
   get 'docs/create'
@@ -6,6 +7,6 @@ Rails.application.routes.draw do
   get 'docs/edit'
   devise_for :users
   resources :docs, only: [:index, :new, :create, :destroy, :edit]
-  root 'docs#index'
+  
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end

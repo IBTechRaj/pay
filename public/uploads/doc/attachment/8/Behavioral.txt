@@ -1,0 +1,73 @@
+1. Tell me a bit about your professional experience in 2-3 minutes.
+
+- I worked in the IT Department of a bank for about thirteen years developing bank application software using C, Unix, COBOL, and scripting languages like Unix Shell, awk, sed, Pl/Sql. I also handled the responsibilities of a Unix System Administrator  and Oracle DBA.  In the spare time I trained Engineering students in C, C++ and Unix.( ... 2014)
+
+- After that I became a freelancer and designed three web sites using HTML CSS Bootstrap and done two projects with C on Linux.
+
+ (Also I trained some batches of bank staff on Core Banking Application.) (2015-2017)
+
+- Thereafter I studied at Microverse an international school for Full Stack Web Developers for 1 1/2 years, a full-time remote program that uses pair programming and project building. I developed around 40 projects using HTML, CSS,Ruby, Ruby on Rails, Javascript and React/Redux, Rspec and Jest. (2019-02-25 : 2020-11-15 )
+
+- Restarted freelance work from Nov 2020. Currently, I am working on  1. Flow FinTech: Rails/React Full Stack Project for handling personal finances and investments, 2. My Super Ride Technologies LLP: Rails/HTML/Bootstrap/CSS student management software for educational institutions and 3. My Motor Wash: Bootstrap/JavaScript/Firebase project for managing customer requirements for booking slots for their motor wash and other services. I would like to switch to a full time job after executing these freelance projects. 
+
+2. What are you looking for in your next role?
+
+- In my next role my preference is to work as a Full Stack Developer.  When we develop a product it is good to know both the sides of the application and hence we can visualize how components intract with each other. Also it would be useful when it comes to trouble shooting.
+
+
+3. Challenge: 
+
+S: My Bank introduced a new system of collecting credit data from bank branches, validating and compiling into master data, generating reports, consolidating for the zone and transmitting data to Head Office  in the first week of next quarter. Raw sample programs were supplied. 
+
+A: We, at our zone, accepted this challenge. I took the lead in implementing this. Then I tested the programs, debugged, modified, and wrote additional programs, processed the data which included error validation and reconciling with individual ledger figures, compiled the data into masters and reports and transferred the data to Head Office in time. Our zone was the first to comply in the country.
+
+During the report compilation time, I have made use of power of Unix shell. To run one program a user has to give several inputs. Like that they have to run several report programs for each branch and there are around 250 branches.  I have written scripts that would take inputs from given file at various stages of the program running.  This helped reduce the task execution time by 80 to 90%. 
+
+R: This activity gave confidence to the Head Office that we can implement the system and they chose our zone to introduce this system on an experimental basis. Subsequently it was successfully implemented in the entire bank which was later moved into Core Banking System.
+
+4. What’s an example of when you demonstrated leadership or ownership? SAME AS ABOVE
+
+S: When the new project was introduced in the bank
+A: I took initiative and told my department head, we can do this and planned all the tasks and started working on that.
+R: Our zone was the first to finish the task and submit the tape to the Head Office in time
+
+
+5. Tell me about a challenging interaction with a team member. How do you handle disagreements with coworkers?
+
+S: One conflict I can recall is that my boss insisted I stay late after the working hours even if there is no work.
+A: Since I would like to do justice to work and family, I normally used to leave as soon as the working hours were over.
+R: But as I used to put in extra hours on working days as well as holidays when there are office exigencies, this issue got resolved as my boss understood my sincerity towards work.
+
+
+5. What’s an example of a difficult problem you solved? Be specific about how the problem was diagnosed and your process for approaching it.
+
+5. What is the most interesting technical challenge you have solved?
+
+* When I was working in computers department of the bank, our Unix server used to crash frequently. And whenever it crashes, it used to take one or two days for the support person to come and fix it. Till that time, the work of the employees working on this server is hampered. 
+
+To solve this problem, I have taken the desktop on which I was working, configured it to work as Unix server. For this, I installed the Unix server software and the device drivers in the desktop, repartitioned the hard drive to match the server's configuration, configured the Terminal server that connects to dumb terminals and configured the desktop nodes to connect to the new server.
+
+From that time onwards whenever the main server was down, my standby server used to take over and the office ran smoothly. It gave me a lot of boost to my confidence in my technical skills. At that time I was working as programmer and also playing the role of Unix Sysadmin.
+
+6. What is your biggest strength and weakness?
+
+I can say my strength is perseverance. I do not want to give up when I encounter some problem. I keep working on it till I get the solution.  Also, if I have to use a new skill to solve the issue on hand, I would do that and integrate that into my work.
+
+I should admit at times I am not well organised.  I mean to say when working on a project, if I am stuck at some issue, I spend too much time on that. Instead, I should attend to other modules of the project keeping the issue on hold and come back to the issue when I am done with other things.  This way it gives me a break from monotony and also the overall project moves ahead.
+ 
+
+
+
+
+7. Tell me about a time when you had to motivate your team to take a particular action.
+
+
+8. What’s an example of a difficult problem you solved? Be specific about how the problem was diagnosed and your process for approaching it.
+
+
+9. Tell me about a challenging interaction with a team member. How do you handle disagreements with coworkers?
+
+
+10. Apart from professional knowledge, what did you learn in your last role?
+
+
