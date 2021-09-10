@@ -10,7 +10,8 @@ module Pay
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.1
-
+    # compresses the files
+    config.middleware.insert_after ActionDispatch::Static, Rack::Deflater
     # Configuration for the application, engines, and railties goes here.
     #
     # These settings can be overridden in specific environments using the files
